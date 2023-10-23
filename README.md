@@ -2,6 +2,15 @@
 comments syntax
 -->
 
+#  Code Goes Here
+`console.log('Hello')`
+
+#  Horizontal Rule
+---
+
+# Bold 
+**bold text**
+
 # my-first-repo
 
 ## My List
